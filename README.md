@@ -23,10 +23,15 @@ Tableau
 #### Files used/created:
 
 Database/Payments.csv: Original Dataset containing transaction payment details;
+
 Database/Clients.csv: Original Dataset containing client information;
+
 Database/processed.csv: Processed datased joining Clients.csv and Payments.csv in a single source;
+
 Database/processed_withoutDaysElapsedOutliers.csv: processed.csv without outliers for days_elapsed analysis (see Dashboard);
+
 Database/AvgPaidPerClient.csv: payments.csv clustered by client_id to get average payments
+
 Database/TotalPaidPerClient.csv: payments.csv clustered by client_id to get total payments
 
 
