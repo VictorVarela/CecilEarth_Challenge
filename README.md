@@ -2,7 +2,8 @@
 This repository contains the analysis and solutions to a business problem and SQL challenge provided. Below is a breakdown of the tasks undertaken and the files included in this repository.
 
 ## Business Analysis
-Datasets used:
+
+### Datasets used:
 
 Payments.csv
 Clients.csv
