@@ -9,7 +9,7 @@ This repository contains the analysis and solutions to a business problem and SQ
 
   Clients.csv
 
-Objective:
+### Objective:
   Identify key trends in payment data to help avoid default-prone customers in the future.
 
 ### Analysis Approach:
