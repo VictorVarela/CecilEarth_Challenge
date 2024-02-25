@@ -56,7 +56,7 @@ This repository contains the analysis and solutions to a business problem and SQ
 
 # Dashboard link:
 
-u  rl
+  https://prod-apsoutheast-a.online.tableau.com/t/victorvarelad1e0e56754/views/CECIL/Dashboard1
 
 # Conclusion
 T  he analysis provides valuable insights into payment trends and helps in identifying potential strategies to mitigate default risks. For any questions or further assistance, please contact Victor Varela at victor_varela@hotmail.com
